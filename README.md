@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza SM</h1>
-<h3 align="center">An interested computer science student from Iran.</h3>
+<h3 align="center">An interested computer science student from Iran.</h3><br>
 
 <img alt="night programming" width=300 align="right" style="vertical-align:middle;margin:50px 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
