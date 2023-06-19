@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alireza SM</h1>
-<h3 align="center">An interested computer science student from Iran.</h3><br>
+<h3 align="center">An interested artificial intelligence student from Iran.</h3><br>
 
 <img alt="night programming" width=300 align="right" style="vertical-align:middle;margin:50px 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I’m currently working on **my bachelor's project**
+- 🔭 I’m currently working on **computer vision** research at the <a href="https://www.linkedin.com/company/cvlab-iust/"><u>CVLab, IUST</u></a>
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **Data-Centric AI**
 
-- 💬 Ask me about **python, pytorch and java**
+- 💬 Ask me about **python, pytorch and computer vision**
 
 - 📫 How to reach me **sedighi_a77@yahoo.com**
 
