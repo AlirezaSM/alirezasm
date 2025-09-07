@@ -27,3 +27,5 @@
 <p>
 <div align="center">
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezasm&show_icons=true&locale=en&la_
+
+<p> <div align="center"> <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezasm&show_icons=true&locale=en&layout=compact" alt="alirezasm" /> &nbsp;<img height=150 src="https://github-readme-stats.vercel.app/api?username=alirezasm&show_icons=true&locale=en" alt="alirezasm" /> </div> </p>
